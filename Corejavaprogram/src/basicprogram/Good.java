@@ -1,6 +1,6 @@
 package basicprogram;
 
-public class gh {
+public class Good {
 public static void main(String[] args) {
 	
 }
