@@ -5,9 +5,9 @@ public class Student {
 	String name;
 	int age;
 	
-	int Student(){
-		return 3;
-//		System.out.println("default constructor");
+	 Student(){
+		
+		System.out.println("default constructor");
 	}
 	Student(String name){
 		this.name=name;
